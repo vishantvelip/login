@@ -5,9 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Signup</title>
+</style >
  <link rel="stylesheet" href="index.style">
+
+</style>
 </head>
 <body>
+<p>hello</p>
     <div class="outer-box">
         <div class="inner-box">
             <header class="signup-header">
